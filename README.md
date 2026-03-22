@@ -2,6 +2,8 @@
 
 Teach any AI agent how to control a real browser through [Oya Browser](https://browser.oya.ai) MCP tools.
 
+Built by [Oya.ai](https://oya.ai) — building reliable AI employees that can browse, act, and get work done on the real web.
+
 ## Install the skill
 
 ```bash
